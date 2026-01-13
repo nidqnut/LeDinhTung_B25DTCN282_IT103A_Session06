@@ -1,0 +1,123 @@
+body {
+    background-color: aliceblue;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(148, 237, 237);
+    color: green;
+}
+h2 {
+    color: green;
+}
+
+.menu {
+    background-color: rgb(188, 234, 244);
+}
+
+.menu a {
+    color: blue;
+    text-decoration: none;
+    padding: 6px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+
+.picture {
+    text-align: center;
+}
+
+
+
+.footer {
+    background-color: rgba(0, 128, 81, 0.957);
+    color: white;
+    text-align: center;
+}
+
+#p1 {
+    margin-bottom: 0;
+}
+
+#p2 {
+    margin-top: 4px;
+}
+
+.introduce {
+    background-color: white;
+}
+
+.list {
+    background-color: white;
+}
+
+.list li:hover {
+    background-color: rgba(165, 224, 224, 0.516);
+    color: rgba(46, 142, 216, 0.651);
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: aqua;
+    color: green;
+    height: 60px;
+}
+
+td {
+    padding: 20px;
+}
+
+tr:hover {
+    background-color: rgba(118, 200, 200, 0.253);
+}
+
+label {
+    font-weight: bold;
+    color: rgb(2, 50, 2);
+}
+
+.form {
+    text-align: center;
+    font-size: large;
+}
+
+input,
+select,
+textarea {
+    font-size: large;
+}
+
+button {
+    background-color: rgba(0, 128, 81, 0.957);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: rgb(5, 68, 5);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    background-color: rgba(71, 159, 214, 0.169);
+}
+
+#siuu {
+    background-color: white;
+    color: white;
+}
+.menu a:hover,
+.menu a:focus {
+    background-color: rgb(109, 109, 201);
+    color: white;
+}
